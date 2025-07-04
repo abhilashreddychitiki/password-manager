@@ -1,0 +1,5 @@
+amazon,a,a
+google,abs@gmail.com,1234
+apple,abc@gmail.com,1234
+planetfitness,abc@gmail.com,1234
+crunch,abc@gmail.com,
